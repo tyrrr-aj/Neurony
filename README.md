@@ -1,0 +1,2 @@
+# Neurony
+Programowanie obiektowe - projekt
